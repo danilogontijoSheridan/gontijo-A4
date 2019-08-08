@@ -1,0 +1,19 @@
+{
+	"dinner": [
+		{
+			"name": "Veggie Soup",
+			"price": "$6.49",
+			"calories": 600
+		},
+		{
+			"name": "Pizza",
+			"price": "$15.00",
+			"calories": 875
+		},
+		{
+			"name": "Corn and Nuggets",
+			"price": "$8.80",
+			"calories": 670
+		}
+	]
+}

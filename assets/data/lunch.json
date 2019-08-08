@@ -1,0 +1,19 @@
+{
+	"lunch": [
+		{
+			"name": "BLT sub sandwich",
+			"price": "$8.50",
+			"calories": 470
+		},
+		{
+			"name": "Chicken Curry",
+			"price": "$12.00",
+			"calories": 550
+		},
+		{
+			"name": "Feijoada",
+			"price": "$18.10",
+			"calories": 1200
+		}
+	]
+}
